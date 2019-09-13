@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jaephiephu.cosbor.com/sitemap.xml
